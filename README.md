@@ -1,3 +1,12 @@
+
+<p align="center">
+  <a href="#">
+    <img src="badgeimage/c#.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
+
+ 
 ## Hi there 👋
 
 <!--
