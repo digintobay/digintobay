@@ -1,8 +1,7 @@
-
 <p align="center">
-  <a href="#">
-    <img src="languages/csharp.svg" alt="C#" style="vertical-align:top margin:6px 4px">
-  </a>
+  <img src="languages/csharp.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+    <img src="languages/unity.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+   <img src="languages/gamedev.svg" alt="C#" style="vertical-align:top margin:6px 4px">
 </p>
 
 
