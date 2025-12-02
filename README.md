@@ -10,12 +10,15 @@
  프로젝트 리스트
 
  2D
+ 미스테리 테일즈 ( 비주얼 노벨 )
+ 요거트 아이스크림의 전설 (타이쿤)
 
- 미스테리 테일즈
+ HD-2D
+ 레드 스크립트 (어드벤처 액션)
 
  3D
+ 학원전쟁 (디펜스)
 
- 레드 스크립트
 
 <!--
 **digintobay/digintobay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
