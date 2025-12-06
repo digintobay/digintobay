@@ -5,8 +5,7 @@
 </p>  
 
 
-![Image](https://github.com/user-attachments/assets/f295997c-8408-4287-8f7f-50ce8f793e53)
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c1ecd670-339b-417b-bb96-5848721ad60f" />
  프로젝트 리스트
 
  2D
