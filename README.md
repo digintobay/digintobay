@@ -3,7 +3,10 @@
     <img src="languages/unity.svg" alt="C#" style="vertical-align:top margin:6px 4px">
    <img src="languages/gamedev.svg" alt="C#" style="vertical-align:top margin:6px 4px">
 </p>  
-![Image](https://github.com/user-attachments/assets/ebf38c8f-eb2c-4302-b2b9-524064b4fdd8)
+
+
+![Image](https://github.com/user-attachments/assets/f295997c-8408-4287-8f7f-50ce8f793e53)
+
  프로젝트 리스트
 
  2D
