@@ -3,9 +3,6 @@
     <img src="languages/unity.svg" alt="C#" style="vertical-align:top margin:6px 4px">
    <img src="languages/gamedev.svg" alt="C#" style="vertical-align:top margin:6px 4px">
 </p>  
-
- 
- UNITY Developer C# C++ APK
 ![Image](https://github.com/user-attachments/assets/ebf38c8f-eb2c-4302-b2b9-524064b4fdd8)
  프로젝트 리스트
 
