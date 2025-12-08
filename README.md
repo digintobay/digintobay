@@ -5,19 +5,13 @@
 </p>  
 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c1ecd670-339b-417b-bb96-5848721ad60f" />
- 프로젝트 리스트
+<img width="1920" height="2160" alt="Image" src="https://github.com/user-attachments/assets/c5581570-13b0-413f-9dbf-b9ce69d36c77" />
+
 
  2D
- 비주얼 노벨
- 타이쿤
- RPG
- 안드로이드 모바일 미니 게임
- 퍼즐
+ 비주얼 노벨, 타이쿤, RPG, 모바일 미니 게임, 퍼즐
 
- 3D
- 어드벤처 액션
- 디펜스
+ 3D 어드벤처 액션, 디펜스
 
 
 <!--
