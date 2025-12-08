@@ -4,8 +4,7 @@
    <img src="languages/gamedev.svg" alt="C#" style="vertical-align:top margin:6px 4px">
 </p>  
 
-
-<img width="1920" height="2160" alt="Image" src="https://github.com/user-attachments/assets/c5581570-13b0-413f-9dbf-b9ce69d36c77" />
+<img width="1920" height="2160" alt="Image" src="https://github.com/user-attachments/assets/ff5b9fed-d220-47ce-925f-e2f4c6350ec3" />
 
 
  2D
